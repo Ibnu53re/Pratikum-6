@@ -1,10 +1,10 @@
-## *Praktikum 5*
+## *Praktikum 6*
 
 Program pertama yang akan dibuat adalah Program untuk menampilkan angka pertama dan kedua dan masukan operator dan mendapat hasil dari input
 
 *Berikut flowchartnya*
 
-![Diagram praktikum 5 drawio (1)](https://github.com/user-attachments/assets/a5d9cc34-a77e-49ff-87a6-d307e3cc7ab4)
+![flowchart](Diagram pratikum6.png)
 
 
 *Program akan meminta kita untuk memasukkan nama, nim, nilai tugas, nilai uts, nilai uas dan tambah data :*
