@@ -9,7 +9,7 @@ Program pertama yang akan dibuat adalah Program untuk menampilkan angka pertama 
 
 *Program akan meminta kita untuk memasukkan nama, nim, nilai tugas, nilai uts, nilai uas dan tambah data :*
 
-<img width="724" alt="Ss Run Praktikum 5" src="https://github.com/user-attachments/assets/0497197a-e0b1-4afb-b4a6-46f13d7e235c">
+![output](Outputnilai.png)
 
 
 **Penjelasan Code**
