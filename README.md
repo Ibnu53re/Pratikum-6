@@ -4,7 +4,7 @@ Program pertama yang akan dibuat adalah Program untuk menampilkan angka pertama 
 
 *Berikut flowchartnya*
 
-!(output)[Diagram pratikum6.png]
+![output](Diagram.png)
 
 
 *Program akan meminta kita untuk memasukkan nama, nim, nilai tugas, nilai uts, nilai uas dan tambah data :*
